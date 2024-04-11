@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @flandower
-- 👀 I’m interested in cloud and security for work, and ES6/Amazon Sumerian for a side project
-- 🌱 I’m currently learning integration of Azure DevOps with Hashicorp Vault
+- 👀 I’m interested in cloud and security for work, and SwiftUI and Strava fora side project
 
 
 
