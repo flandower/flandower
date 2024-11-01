@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flandower
-- 👀 I’m interested in cloud and security for work, and SwiftUI and Strava for a side project
+- 👀 I’m interested in APIs, microservices, AI/ML and security for work, and Swift/SwiftUI and Strava for a side project
 
 
 
